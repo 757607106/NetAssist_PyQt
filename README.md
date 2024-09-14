@@ -1,3 +1,8 @@
+# 设计思路
+
+https://muzing.top/posts/5ab16c09/
+
+
 # 网络调试助手
 
 ![PyQt Version](https://img.shields.io/badge/PyQt-5.15-blue)
